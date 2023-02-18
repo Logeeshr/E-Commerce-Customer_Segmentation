@@ -18,5 +18,5 @@
  8. Country
  
  ## Work flow
-    In this project I used NLP techniques for Pre-Processing the Description column and clustered the products into different categories Then with the help of Product categories clustered the customers
+   In this project I used NLP techniques for Pre-Processing the Description column and clustered the products into different categories Then with the help of Product categories clustered the customers
    
